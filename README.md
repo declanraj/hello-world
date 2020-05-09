@@ -1,5 +1,4 @@
 # hello-world
-Just tryin' out
 
 Hello World!
 
